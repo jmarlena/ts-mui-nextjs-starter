@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
+    title: Hero Title!!!
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
       This is the HeroSection component. You can visually edit this component &
@@ -31,7 +31,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: First Card Title - 123
         image:
           type: Image
           url: /images/nextjs.svg
