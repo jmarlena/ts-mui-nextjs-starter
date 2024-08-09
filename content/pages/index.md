@@ -19,9 +19,9 @@ sections:
       - type: Button
         label: Start Building
         url: 'https://docs.netlify.com/create/quickstart'
-        size: small
-        variant: contained
-        color: primary
+        size: medium
+        variant: outlined
+        color: secondary
       - type: Button
         label: Read the Docs
         url: 'https://docs.netlify.com/create/overview'
