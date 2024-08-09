@@ -19,7 +19,7 @@ sections:
       - type: Button
         label: Start Building
         url: 'https://docs.netlify.com/create/quickstart'
-        size: large
+        size: small
         variant: contained
         color: primary
       - type: Button
